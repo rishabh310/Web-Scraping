@@ -1,2 +1,2 @@
 cls
-node fbwithp.js fbcreds.json "Graphic Era Deemed to be University" 50
+node fbwithp.js fbcreds.json "Page to be liked" 50
